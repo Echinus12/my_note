@@ -13,9 +13,9 @@
 
 ---
 
-<center> ### 心之所向，素履以往。</center>
+### 心之所向，素履以往。
 
-<div style="text-align: right"> 2019-12-15 </div>
+2019-12-15 </div>
 <div style="text-align: right"> 我的29岁阳历生日 </div>
 
 
